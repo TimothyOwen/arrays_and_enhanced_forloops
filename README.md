@@ -1,6 +1,6 @@
 <h1>Exercises</h1>  
 <h2>Arrays</h2>
-1. Create an array that will hold 10 integer values, populate the array with values, then call and output each element. 
+1. Create an array that will hold 10 integer values, populate the array with values, then call and output each element.<br> 
 
 
 2. Create a for loop that populates an integer array with values, outputting them at each iteration.
